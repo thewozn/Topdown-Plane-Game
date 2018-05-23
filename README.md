@@ -11,7 +11,7 @@ To run the code itself, you can load the project in Eclipse IDE.
 
 
 ### Important note
-The code is very partially commented since the version presented on this Git was the result of an universitary project.
+The code is very lightly commented since the version presented on this Git was the result of an universitary project.
 
 
 ### Pre-requisites
@@ -21,5 +21,5 @@ The code is very partially commented since the version presented on this Git was
 
 
 ## Authors
-* Anthony WOZNICA
-* Elodie LAM
+* **Anthony WOZNICA**
+* **Elodie LAM**
