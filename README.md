@@ -4,7 +4,7 @@ Simple topdown-view game in JAVA where the goal is to make planes/helicopters re
 
 ## Getting Started
 The executable needs Java (JRE) 1.5+ to be launched. To start the game, you can either:
-* Click on Game.jar #(contained in the folder /Executable)
+* Click on Game.jar (contained in the folder /Executable)
 * Launch manually Game.jar from command line (java -jar Game.jar on Windows operating systems)
 
 To run the code itself, you can load the project in Eclipse IDE.
